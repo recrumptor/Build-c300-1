@@ -16,7 +16,7 @@ on:
         options:
           # - openwrt-22.03
           #- openwrt-23.05
-          - openwrt-24.10.1
+          - openwrt-24.10
       config_file:
         description: "Config Name"
         type: choice
